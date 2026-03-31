@@ -24,7 +24,7 @@ Conteúdo:
 
 [Módulo 10: Descritiva II - Análise descritiva para resposta contínua](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2010%20-%20Descritiva%20II%20-%20An%C3%A1lise%20descritiva%20para%20resposta%20cont%C3%ADnua.);
 
-[Módulo 11: Árvores II - Parte I - Árvore de Regressão](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2011%20-%20A%CC%81rvores%20II%20(Parte%20I%20-%20a%CC%81rvore%20de%20regressa%CC%83o.));
+[Módulo 11: Árvores II - Parte I - Árvore de Regressão](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2011%20-%20A%CC%81rvores%20II%20(Parte%20I%20-%20a%CC%81rvore%20de%20regressa%CC%83o).);
 
 ...
 
