@@ -8,7 +8,7 @@ Conteúdo:
 
 [Módulo 2: Metodologia](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2002%20-%20Metodologia./Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20-%20Part.%201.);
 
-[Módulo 3: Elementos básicos de Python e Numpy](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2003%20-%20Elementos%20ba%CC%81sicos%20de%20Python%20e%20Numpy);
+[Módulo 3: Elementos básicos de Python e Numpy](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2003%20-%20Elementos%20ba%CC%81sicos%20de%20Python%20e%20Numpy.);
 
 [Módulo 4: Introdução ao Pandas e carga de dados](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2004%20-%20Introduc%CC%A7a%CC%83o%20ao%20Pandas%20e%20carga%20de%20dados);
 
