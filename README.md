@@ -6,7 +6,7 @@ Conteúdo:
 
 [Módulo 1: Perspectivas de Carreira](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2001%20-%20Perspectivas%20de%20Carreira.);
 
-[Módulo 2: Metodologia](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2002%20-%20Metodologia/Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20-%20Part.%201);
+[Módulo 2: Metodologia](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2002%20-%20Metodologia./Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito%20-%20Part.%201.);
 
 [Módulo 3: Elementos básicos de Python e Numpy](https://github.com/lucas-cirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2003%20-%20Elementos%20ba%CC%81sicos%20de%20Python%20e%20Numpy);
 
